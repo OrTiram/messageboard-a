@@ -6,7 +6,7 @@ namespace ariel{
 
     class Board{
         private:
-        int count = 0 ;
+        int count;
 
         public:
         Board();
